@@ -1,0 +1,60 @@
+* Cree JB2835B 3V G Class White LED
+* Model valid for 30mA to 480mA
+.MODEL JB2835B3VG D
++ IS=4.3735e-030
++ N=1.5641
++ RS=0.9854
++ XTI=13.597
++ IKF=0
++ EG=2.5000
+
+
+* Cree JB2835B 3V J Class White LED
+* Model valid for 30mA to 480mA
+.MODEL JB2835B3VJ D
++ IS=1.8566e-026
++ N=1.8069
++ RS=0.94865
++ XTI=15.212
++ IKF=0
++ EG=2.5000
+
+* Cree JE2835B 3V N Class White LED
+* Model valid for 20mA to 240mA
+.MODEL JE2835B3VN D
++ IS=7.5954e-031
++ N=1.5494
++ RS=1.5541
++ XTI=17.679
++ IKF=0
++ EG=2.5000
+
+* Cree JE2835B 3V P Class White LED
+* Model valid for 20mA to 240mA
+.MODEL JE2835B3VP D
++ IS=1.1838e-025
++ N=1.8904
++ RS=1.9014
++ XTI=18.044
++ IKF=0
++ EG=2.5000
+
+* Cree JE2835 3V R Class White LED
+* Model valid for 20mA to 240mA
+.MODEL JE28353VR D
++ IS=6.2011e-026
++ N=1.8885
++ RS=1.3712
++ XTI=23.275
++ IKF=0
++ EG=2.5000
+
+* Cree JB2835 3V W Class White LED
+* Model valid for 5mA to 150mA
+.MODEL JB28353VW D
++ IS=1.9641e-027
++ N=1.8214
++ RS=3.0851
++ XTI=23.001
++ IKF=0
++ EG=2.5000
